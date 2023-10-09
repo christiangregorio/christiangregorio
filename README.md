@@ -17,6 +17,6 @@ Espero que te guste mi trabajo y que podamos colaborar(📫) en algún proyecto 
 ### Mis lenguajes y herramientas:
 kotlin, html, idea, vscode, git, github
 
-# <img src="./images/octogato.png" width=15% align=right />
+# <img src="[https://github.com/christiangregorio/christiangregorio/blob/main/octocat.png" width=15% align=right />
 
 [Contador de visitas]
