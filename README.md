@@ -8,7 +8,7 @@ Apasionado por las nuevas tecnologías y los desafíos creativos.
 
 ***
 
-🌱Actualmente estoy aprendiendo **_HTML_** y **_Kotlin_**, este último un lenguaje de programación moderno, conciso y seguro que se puede utilizar tanto para el backend como para el frontend de las aplicaciones web. También estoy conociendo Git, un sistema de control de versiones distribuido que me permite gestionar el código fuente de mis proyectos de forma eficiente y colaborativa.
+🌱Actualmente estoy aprendiendo **_Spring Boot_** y **_Bootstrap_**. Spring Boot es un framework que facilita la creación de aplicaciones Java robustas y de gran rendimiento, mientras que Bootstrap es un framework de CSS que ayuda a diseñar interfaces web responsivas y modernas. También estoy conociendo **_Docker_**, una herramienta que permite crear, desplegar y ejecutar aplicaciones en contenedores, haciendo que el proceso de desarrollo y despliegue sea más eficiente y escalable.
 
 En este perfil podrás encontrar algunos de los proyectos que he realizado o en los que estoy trabajando, tanto en Kotlin como en otros lenguajes y frameworks.
 <p>
@@ -16,7 +16,7 @@ En este perfil podrás encontrar algunos de los proyectos que he realizado o en 
 <p align="center"><b>¡Gracias por visitar mi perfil!</b></p>
 
 > ### Mis lenguajes y herramientas:
-> [![My Skills](https://skillicons.dev/icons?i=html,kotlin,git,github,vscode,idea&theme=light)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,idea,java,kotlin,docker,gradle,sqlite,bootstrap&theme=light)](https://skillicons.dev)
 
 
 # <img src="./Images/octocat.png" width=40% align=center />
