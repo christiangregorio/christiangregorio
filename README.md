@@ -1,7 +1,7 @@
 <h2 align="center">¡Hola!👋 Soy Christian</h2>
 <img src="./Images/Bin_matrix.jpg" width=100% align=center />
 <p align="center">
-Apasionado por las nuevas tecnologías y los desafíos creativos.
+Motivado por las nuevas tecnologías y los desafíos creativos.
   <p></p>
 <p align="center">Futuro programador y desarrollador estudiando <b>Desarrollo de Aplicaciones Web</b> / <b>Fullstack Junior Web Developer con Java</b> en Madrid (España).
 </p>
