@@ -3,7 +3,7 @@
 <p align="center">
 Apasionado por las nuevas tecnologías y los desafíos creativos.
   <p></p>
-<p align="center">Futuro programador y desarrollador estudiando <b>Desarrollo de Aplicaciones Web</b> en el centro <i>IES Luis Vives</i> en Leganés, Madrid (España). 
+<p align="center">Futuro programador y desarrollador estudiando <b>Desarrollo de Aplicaciones Web</b> / <b>Fullstack Junior Web Developer con Java</b> en Madrid (España).
 </p>
 
 ***
